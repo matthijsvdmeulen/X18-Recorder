@@ -2,24 +2,30 @@
 
 # Called from Autorecord.sh
 
+# Get variables from passed arguments
 RECORDING_HOME=$1
 SOUND_DEVICE=$2
 TRACKS=$3
 
-cleanup() {
-    sync
-    echo Recording to "$RECORDING_FILE" has ended.
-}
+# Trap the termination of the script by the user or kill command
+trap interrupt_or_terminate SIGINT SIGTERM
 
-exitR() {
+# Function to run when terminating to stop arecord correctly 
+interrupt_or_terminate() {
     kill -TERM $ARECORD_PID > /dev/null 2>&1
     cleanup
-    echo "$(date) Recording stopped by user"
-    exit $?
+    echo "Recording terminated"
+    exit
 }
 
-trap exitR SIGINT SIGTERM
+# Function to sync changes to the filesystem, and log a stopped recording
+cleanup() {
+    sync
+    echo $(date)
+    echo "Recording to "$RECORDING_FILE" has ended."
+}
 
+# sleep one second to allow logging from Autorecord to finish
 sleep 1
 
 # Main loop, runs indefinitely
@@ -63,7 +69,8 @@ do
     done
     RECORDING_FOLDER="$RECORDING_HOME/$COUNT"
     
-    mkdir $RECORDING_FOLDER
+    # Try to create recording folder and wait if drive is full
+    mkdir $RECORDING_FOLDER > /dev/null 2>&1
     MKDIR_SUCCES=$?
     if [ "$MKDIR_SUCCES" -eq 1 ]
     then
@@ -74,18 +81,22 @@ do
             MKDIR_SUCCES=$?
             sleep 1
         done
+        # Continue new loop from beginning
         continue
     fi
     
+    # Change folder permissions
     chmod 777 $RECORDING_FOLDER
+    # Define recording file
     RECORDING_FILE="$RECORDING_FOLDER/all_tracks.raw"
 
     # Start recording
     #   - "2> >(ts -s >&2)" redirects stderr [2>] into ts's stdin [>(ts ...)] and then redirects ts's stdout back to the original stderr address [>&2]
     #   - ts itself adds a timestamp to the start of each line that it receives and prints it back out
     #     - The -s option is relative time to when that line was run
+    echo $(date)
     echo "Recording to $RECORDING_FILE"
-    arecord --duration=$REC_LENGTH --device=hw:CARD=$SOUND_DEVICE,DEV=0 --channels=$TRACKS --file-type=raw --format=S32_LE --rate=48000 --buffer-time=200000 > "$RECORDING_FILE" 2> >(ts -s >&2) &
+    arecord --duration=0 --device=hw:CARD=$SOUND_DEVICE,DEV=0 --channels=$TRACKS --file-type=raw --format=S32_LE --rate=48000 --buffer-time=200000 > "$RECORDING_FILE" 2> >(ts -s >&2) &
     # $! references the process id of the last command, we save this to be able to shut down arecord later
     ARECORD_PID=$!
     echo "Current arecord PID: $ARECORD_PID"
@@ -99,5 +110,6 @@ do
         sync
     done
 
+    # If arecord stops on it's own, run the cleanup function
     cleanup
 done

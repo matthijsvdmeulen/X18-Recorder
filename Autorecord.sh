@@ -3,34 +3,42 @@
 # Called from /etc/rc.local
 
 # Variables
-RECORDING_FOLDER=/media/jmvdmeulen/JMUSB3/XR18
-LOG_FOLDER=/home/jmvdmeulen/Recorder/logs
-SOUND_DEVICE="X18XR18"
+RECORDING_DRIVE="/media//JMUSB3"
+SCRIPT_HOME="/home/pi/Recorder"
+
+SOUND_DEVICE="X18XR18" # X18XR18 for X air series, XUSB for X32
 TRACKS=18
-ROUTER_IP="192.168.18.254"
+ROUTER_IP="192.168.1.1"
+
+RECORDING_FOLDER="$RECORDING_DRIVE/XR18"
+LOG_FOLDER="$SCRIPT_HOME/logs"
 LOGFILE="$LOG_FOLDER/Recording.log"
 
-# Function to run when termination to clean up all processes
-exitfunction() {
-    kill -TERM $RECORD_PID 2>&1 > /dev/null
-    exit $?
-}
-
 # Trap the termination of the script by the user or kill command
-trap exitfunction SIGINT SIGTERM
+trap interrupt_or_terminate SIGINT SIGTERM
+
+# Function to run when terminating to stop the recording daemon
+interrupt_or_terminate() {
+    kill -TERM $RECORD_PID 2>&1 > /dev/null
+    exit
+}
 
 # Let the system settle down a bit
 sleep 1
 
+# Create logging folder if it doesn't exist
 # Add empty line to logfile, or create logfile if it doesn't exist
+[ -d "$LOG_FOLDER" ] || mkdir $LOG_FOLDER
 echo >> $LOGFILE
 
+# Start Recording daemon
 # Don't wait for this script to end (the '&' at the end)
-/home/jmvdmeulen/Recorder/Record.sh $RECORDING_FOLDER $SOUND_DEVICE $TRACKS >> $LOGFILE 2>&1 &
+$SCRIPT_HOME/Record.sh $RECORDING_FOLDER $SOUND_DEVICE $TRACKS >> $LOGFILE 2>&1 &
 
 # Save the PID of the detached script
 RECORD_PID=$!
 
+# Log all process PID's and start with the current date
 echo $(date) >> $LOGFILE
 echo 'Started Recording deamon:' >> $LOGFILE
 echo "Deamon PID: $$" >> $LOGFILE
@@ -57,7 +65,7 @@ do
         COUNT=0
 
         # we only need to sleep here because ping delays already if not found
-        sleep 5
+        sleep 1
 
     # Look for XR18, which isn't backed up either
     # use grep to filter the output of arecord -L, returns 0 (true) if found
@@ -67,27 +75,26 @@ do
         # XR18 is present, which means
         # we're not on battery, so reset the count
         COUNT=0
-        sleep 5
 
     else
 
         # Router and XR18 are not present, which means
         # we are on battery, so increment the count
         COUNT=$(($COUNT+1))
-        sleep 1
 
     fi
 done
 
+# Log time offline
 echo "Consistently on battery for $COUNT seconds." >> $LOGFILE
 
-# # Terminate running recording
+# Terminate running recording
 echo 'Shutting down!' >> "$LOGFILE"
-kill $RECORD_PID >> $LOGFILE
+kill $RECORD_PID > /dev/null 2>&1
 
-# # Wait for encoding to wave files
-wait >> $LOGFILE
+# Wait for encoding to wave files
+wait
 
-# # "Push the power button"
+# "Push the power button"
 echo 'Graceful shutdown complete, turning off system' >> $LOGFILE
 # shutdown -h now >> $LOGFILE
