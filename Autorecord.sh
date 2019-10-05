@@ -3,8 +3,8 @@
 # Called from /etc/rc.local
 
 # Variables
-RECORDING_DRIVE="/media/jmvdmeulen/JMUSB3"
-SCRIPT_HOME="/home/jmvdmeulen/Recorder"
+RECORDING_DRIVE="/media/JMUSB3"
+SCRIPT_HOME="/home/pi/Recorder"
 
 SOUND_DEVICE="X18XR18" # X18XR18 for X air series, XUSB for X32
 TRACKS=18
