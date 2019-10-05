@@ -3,12 +3,12 @@
 # Called from /etc/rc.local
 
 # Variables
-RECORDING_DRIVE="/media//JMUSB3"
-SCRIPT_HOME="/home/pi/Recorder"
+RECORDING_DRIVE="/media/jmvdmeulen/JMUSB3"
+SCRIPT_HOME="/home/jmvdmeulen/Recorder"
 
 SOUND_DEVICE="X18XR18" # X18XR18 for X air series, XUSB for X32
 TRACKS=18
-ROUTER_IP="192.168.1.1"
+ROUTER_IP="192.168.18.254"
 
 RECORDING_FOLDER="$RECORDING_DRIVE/XR18"
 LOG_FOLDER="$SCRIPT_HOME/logs"
