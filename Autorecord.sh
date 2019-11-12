@@ -23,13 +23,14 @@ interrupt_or_terminate() {
     exit
 }
 
-# Let the system settle down a bit
-sleep 1
-
 # Create logging folder if it doesn't exist
 # Add empty line to logfile, or create logfile if it doesn't exist
 [ -d "$LOG_FOLDER" ] || mkdir $LOG_FOLDER
 echo >> $LOGFILE
+echo Starting system >> $LOGFILE
+
+# Let the system settle down a bit
+sleep 60
 
 # Start Recording daemon
 # Don't wait for this script to end (the '&' at the end)
@@ -97,4 +98,4 @@ wait
 
 # "Push the power button"
 echo 'Graceful shutdown complete, turning off system' >> $LOGFILE
-# shutdown -h now >> $LOGFILE
+shutdown -h now >> $LOGFILE
