@@ -3,8 +3,8 @@
 # Script to extract individual .wav files from the giant block of raw data
 
 # Assign passed arguments to variables
-RAW_INPUT_FILE = $1
-DECODED_OUTPUT_FOLDER = $2
+RAW_INPUT_FILE=$1
+DECODED_OUTPUT_FOLDER=$2
 
 echo 'Creating individual wave files'
 
