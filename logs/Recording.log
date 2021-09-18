@@ -1,0 +1,2150 @@
+
+Sun 6 Oct 00:36:04 CEST 2019
+Started Recording deamon:
+Deamon PID: 504
+Record PID: 582
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 6 Oct 09:54:11 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 10218
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+01:04:30 arecord: pcm_read:2145: read error: No such device
+Sun 6 Oct 10:58:41 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 6 Oct 10:58:45 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Thu 10 Oct 17:19:43 CEST 2019
+Started Recording deamon:
+Deamon PID: 494
+Record PID: 1192
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Thu 10 Oct 17:28:10 CEST 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw
+Current arecord PID: 3532
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:18:57 stdout: No space left on device
+Thu 10 Oct 17:47:08 CEST 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Recording device full, waiting for new device...
+Consistently on battery for 10 seconds.
+Shutting down!
+Thu 10 Oct 20:29:41 CEST 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Thu 17 Oct 01:18:46 CEST 2019
+Started Recording deamon:
+Deamon PID: 487
+Record PID: 1186
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 20 Oct 10:27:24 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 19571
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:00:13 overrun!!! (at least 42.558 ms long)
+00:00:40 overrun!!! (at least 269.677 ms long)
+Terminated
+Sun 20 Oct 10:29:18 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Recording terminated
+
+Sun 20 Oct 10:29:57 CEST 2019
+Started Recording deamon:
+Deamon PID: 515
+Record PID: 1238
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 20 Oct 10:29:58 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 1270
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+01:25:48 arecord: pcm_read:2145: read error: No such device
+Sun 20 Oct 11:55:46 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 20 Oct 11:55:47 CEST 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Terminated
+Terminated
+Tue 12 Nov 18:53:11 CET 2019
+Recording to  has ended.
+Recording terminated
+
+Tue 12 Nov 18:53:58 CET 2019
+Started Recording deamon:
+Deamon PID: 491
+Record PID: 1408
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Tue 12 Nov 19:12:30 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw
+Current arecord PID: 2548
+00:00:00 Recording raw data 'stdin' : Signed 16 bit Little Endian, Rate 48000 Hz, Stereo
+00:00:15 stdout: Input/output error
+Tue 12 Nov 19:12:46 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Terminated
+Tue 12 Nov 22:59:14 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Recording terminated
+
+Starting system
+Tue 12 Nov 23:00:51 CET 2019
+Started Recording deamon:
+Deamon PID: 438
+Record PID: 1427
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Tue 12 Nov 23:22:46 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 13 Nov 21:09:07 CET 2019
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1603
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Wed 13 Nov 22:33:12 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Fri 15 Nov 15:17:05 CET 2019
+Started Recording deamon:
+Deamon PID: 490
+Record PID: 1456
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Fri 15 Nov 15:43:08 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Fri 15 Nov 16:08:55 CET 2019
+Started Recording deamon:
+Deamon PID: 435
+Record PID: 1440
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Fri 15 Nov 16:38:44 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Fri 15 Nov 18:17:21 CET 2019
+Started Recording deamon:
+Deamon PID: 448
+Record PID: 1415
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Fri 15 Nov 21:25:58 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Fri 15 Nov 21:27:36 CET 2019
+Started Recording deamon:
+Deamon PID: 455
+Record PID: 1179
+Consistently on battery for 10 seconds.
+Shutting down!
+Fri 15 Nov 21:27:37 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Fri 15 Nov 21:29:13 CET 2019
+Started Recording deamon:
+Deamon PID: 448
+Record PID: 1176
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 17 Nov 10:02:13 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 9814
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:24:22 stdout: Input/output error
+Sun 17 Nov 10:26:36 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 17 Nov 10:26:45 CET 2019
+Recording to /media/JMUSB3/XR18/3/all_tracks.raw
+Current arecord PID: 25908
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+01:38:25 arecord: pcm_read:2145: read error: No such device
+Consistently on battery for 10 seconds.
+Shutting down!
+Sun 17 Nov 12:05:12 CET 2019
+Recording to /media/JMUSB3/XR18/3/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 17 Nov 12:06:52 CET 2019
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1131
+Consistently on battery for 10 seconds.
+Shutting down!
+Sun 17 Nov 12:06:53 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 17 Nov 12:08:29 CET 2019
+Started Recording deamon:
+Deamon PID: 444
+Record PID: 1433
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 17 Nov 14:52:27 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 17 Nov 14:53:46 CET 2019
+Started Recording deamon:
+Deamon PID: 485
+Record PID: 1471
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Wed 27 Nov 21:30:54 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 27 Nov 21:32:31 CET 2019
+Started Recording deamon:
+Deamon PID: 434
+Record PID: 1163
+Consistently on battery for 10 seconds.
+Shutting down!
+Wed 27 Nov 21:32:32 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 27 Nov 21:34:08 CET 2019
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1163
+Consistently on battery for 10 seconds.
+Shutting down!
+Wed 27 Nov 21:34:09 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 7 Dec 14:20:27 CET 2019
+Started Recording deamon:
+Deamon PID: 499
+Record PID: 1565
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 7 Dec 16:17:27 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 7 Dec 16:19:03 CET 2019
+Started Recording deamon:
+Deamon PID: 485
+Record PID: 1473
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sat 14 Dec 15:09:06 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 2036
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:42:41 arecord: pcm_read:2145: read error: No such device
+Sat 14 Dec 15:51:48 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sat 14 Dec 15:51:48 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw
+Current arecord PID: 30500
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:03:29 stdout: Input/output error
+Sat 14 Dec 15:55:18 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 14 Dec 15:57:31 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 14 Dec 15:59:08 CET 2019
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1163
+Consistently on battery for 10 seconds.
+Shutting down!
+Sat 14 Dec 15:59:09 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 15 Dec 12:57:09 CET 2019
+Started Recording deamon:
+Deamon PID: 489
+Record PID: 1584
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 15 Dec 18:38:04 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 15 Dec 18:39:22 CET 2019
+Started Recording deamon:
+Deamon PID: 488
+Record PID: 1454
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Tue 17 Dec 18:15:10 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 12480
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+01:49:53 arecord: pcm_read:2145: read error: No such device
+Tue 17 Dec 20:05:04 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Consistently on battery for 10 seconds.
+Shutting down!
+
+Starting system
+Tue 17 Dec 19:53:40 CET 2019
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1488
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Wed 18 Dec 16:32:44 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 18 Dec 19:22:57 CET 2019
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1456
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Wed 18 Dec 21:35:24 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw
+Current arecord PID: 19686
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:04:05 stdout: Input/output error
+Wed 18 Dec 21:39:30 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Wed 18 Dec 22:08:37 CET 2019
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 18 Dec 22:10:14 CET 2019
+Started Recording deamon:
+Deamon PID: 488
+Record PID: 1446
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Thu 19 Dec 13:26:59 CET 2019
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1538
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Thu 19 Dec 14:23:07 CET 2019
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Thu 19 Dec 14:25:10 CET 2019
+Started Recording deamon:
+Deamon PID: 489
+Record PID: 1456
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Thu 19 Dec 19:20:37 CET 2019
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1133
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Thu 19 Dec 19:20:17 CET 2019
+Started Recording deamon:
+Deamon PID: 486
+Record PID: 1445
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sun 29 Dec 09:01:58 CET 2019
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1622
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 29 Dec 09:57:15 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 4141
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:19:25 overrun!!! (at least 21.671 ms long)
+00:50:44 overrun!!! (at least 8.176 ms long)
+00:50:45 overrun!!! (at least 88.428 ms long)
+00:50:45 overrun!!! (at least 128.960 ms long)
+00:50:46 overrun!!! (at least 9.017 ms long)
+00:51:16 overrun!!! (at least 9.461 ms long)
+00:51:17 overrun!!! (at least 48.445 ms long)
+00:51:18 overrun!!! (at least 8.877 ms long)
+00:51:18 overrun!!! (at least 88.711 ms long)
+00:51:19 overrun!!! (at least 49.068 ms long)
+00:51:19 overrun!!! (at least 8.622 ms long)
+00:51:20 overrun!!! (at least 128.813 ms long)
+00:51:23 overrun!!! (at least 19.431 ms long)
+00:51:43 overrun!!! (at least 9.644 ms long)
+00:52:38 overrun!!! (at least 28.997 ms long)
+00:53:23 overrun!!! (at least 17.665 ms long)
+00:54:08 overrun!!! (at least 19.612 ms long)
+00:54:13 overrun!!! (at least 0.021 ms long)
+00:54:27 overrun!!! (at least 19.900 ms long)
+00:54:33 overrun!!! (at least 0.185 ms long)
+00:55:45 overrun!!! (at least 79.190 ms long)
+00:55:46 overrun!!! (at least 58.961 ms long)
+00:55:48 overrun!!! (at least 18.803 ms long)
+00:55:48 overrun!!! (at least 8.762 ms long)
+00:59:45 overrun!!! (at least 7.690 ms long)
+00:59:45 overrun!!! (at least 18.844 ms long)
+00:59:48 overrun!!! (at least 39.855 ms long)
+01:01:22 overrun!!! (at least 19.109 ms long)
+01:01:23 overrun!!! (at least 68.888 ms long)
+01:01:24 overrun!!! (at least 8.761 ms long)
+01:01:26 overrun!!! (at least 48.728 ms long)
+01:01:27 overrun!!! (at least 68.902 ms long)
+01:01:27 overrun!!! (at least 18.916 ms long)
+01:01:27 overrun!!! (at least 9.245 ms long)
+01:01:28 overrun!!! (at least 49.005 ms long)
+01:01:28 overrun!!! (at least 8.873 ms long)
+01:01:29 overrun!!! (at least 48.771 ms long)
+01:01:29 overrun!!! (at least 188.973 ms long)
+01:01:30 overrun!!! (at least 48.969 ms long)
+01:01:30 overrun!!! (at least 7.906 ms long)
+01:01:31 overrun!!! (at least 9.016 ms long)
+01:01:31 overrun!!! (at least 8.431 ms long)
+01:01:36 overrun!!! (at least 0.082 ms long)
+01:01:39 overrun!!! (at least 38.393 ms long)
+01:01:51 overrun!!! (at least 10.107 ms long)
+01:01:52 overrun!!! (at least 68.703 ms long)
+01:01:52 overrun!!! (at least 8.608 ms long)
+01:01:53 overrun!!! (at least 8.868 ms long)
+01:01:54 overrun!!! (at least 68.474 ms long)
+01:02:06 overrun!!! (at least 9.963 ms long)
+01:02:07 overrun!!! (at least 48.759 ms long)
+01:02:07 overrun!!! (at least 68.852 ms long)
+01:02:08 overrun!!! (at least 49.355 ms long)
+01:02:12 overrun!!! (at least 7.595 ms long)
+01:02:17 overrun!!! (at least 18.277 ms long)
+01:02:19 overrun!!! (at least 28.367 ms long)
+01:02:20 overrun!!! (at least 8.728 ms long)
+01:02:24 overrun!!! (at least 8.392 ms long)
+01:02:28 overrun!!! (at least 8.336 ms long)
+01:02:37 overrun!!! (at least 29.764 ms long)
+01:02:38 overrun!!! (at least 18.816 ms long)
+01:02:39 overrun!!! (at least 48.701 ms long)
+01:02:42 overrun!!! (at least 9.964 ms long)
+01:02:43 overrun!!! (at least 8.670 ms long)
+01:02:44 overrun!!! (at least 8.768 ms long)
+01:02:45 overrun!!! (at least 8.581 ms long)
+01:02:46 overrun!!! (at least 8.942 ms long)
+01:03:01 overrun!!! (at least 69.356 ms long)
+01:03:07 overrun!!! (at least 0.115 ms long)
+01:03:08 overrun!!! (at least 68.010 ms long)
+01:03:08 overrun!!! (at least 68.620 ms long)
+01:03:10 overrun!!! (at least 8.723 ms long)
+01:03:11 overrun!!! (at least 68.886 ms long)
+01:03:11 overrun!!! (at least 68.744 ms long)
+01:03:12 overrun!!! (at least 48.954 ms long)
+01:03:12 overrun!!! (at least 8.587 ms long)
+01:03:13 overrun!!! (at least 18.920 ms long)
+01:03:13 overrun!!! (at least 28.707 ms long)
+01:03:14 overrun!!! (at least 58.657 ms long)
+01:03:17 overrun!!! (at least 10.169 ms long)
+01:03:22 overrun!!! (at least 28.377 ms long)
+01:03:23 overrun!!! (at least 18.619 ms long)
+01:03:24 overrun!!! (at least 38.678 ms long)
+01:03:27 overrun!!! (at least 38.498 ms long)
+01:03:27 overrun!!! (at least 28.855 ms long)
+01:03:28 overrun!!! (at least 68.597 ms long)
+01:03:29 overrun!!! (at least 28.526 ms long)
+01:03:30 overrun!!! (at least 38.739 ms long)
+01:03:31 overrun!!! (at least 58.783 ms long)
+01:03:32 overrun!!! (at least 28.634 ms long)
+01:03:33 overrun!!! (at least 8.741 ms long)
+01:03:37 overrun!!! (at least 8.318 ms long)
+01:04:27 overrun!!! (at least 9.683 ms long)
+01:04:28 overrun!!! (at least 8.423 ms long)
+01:04:37 overrun!!! (at least 29.167 ms long)
+01:04:38 overrun!!! (at least 18.798 ms long)
+01:04:39 overrun!!! (at least 68.598 ms long)
+01:04:39 overrun!!! (at least 18.763 ms long)
+01:04:40 overrun!!! (at least 18.642 ms long)
+01:04:43 overrun!!! (at least 8.481 ms long)
+01:04:52 overrun!!! (at least 19.080 ms long)
+01:05:12 overrun!!! (at least 8.421 ms long)
+01:05:41 overrun!!! (at least 29.406 ms long)
+01:05:49 overrun!!! (at least 9.323 ms long)
+01:05:50 overrun!!! (at least 9.071 ms long)
+01:05:50 overrun!!! (at least 58.600 ms long)
+01:05:51 overrun!!! (at least 8.777 ms long)
+01:05:51 overrun!!! (at least 8.646 ms long)
+01:05:52 overrun!!! (at least 48.835 ms long)
+01:05:53 overrun!!! (at least 18.805 ms long)
+01:05:54 overrun!!! (at least 38.699 ms long)
+01:07:33 overrun!!! (at least 39.030 ms long)
+01:07:33 overrun!!! (at least 8.811 ms long)
+01:07:34 overrun!!! (at least 28.978 ms long)
+01:07:34 overrun!!! (at least 38.775 ms long)
+01:07:35 overrun!!! (at least 18.751 ms long)
+01:07:35 overrun!!! (at least 58.569 ms long)
+01:07:38 overrun!!! (at least 10.430 ms long)
+01:07:40 overrun!!! (at least 10.242 ms long)
+01:07:41 overrun!!! (at least 28.579 ms long)
+01:07:41 overrun!!! (at least 18.890 ms long)
+01:07:42 overrun!!! (at least 48.823 ms long)
+01:07:42 overrun!!! (at least 58.636 ms long)
+01:07:45 overrun!!! (at least 0.366 ms long)
+01:07:51 overrun!!! (at least 39.549 ms long)
+01:07:53 overrun!!! (at least 8.780 ms long)
+01:07:54 overrun!!! (at least 68.925 ms long)
+01:07:55 overrun!!! (at least 78.885 ms long)
+01:07:55 overrun!!! (at least 58.874 ms long)
+01:07:59 overrun!!! (at least 0.493 ms long)
+01:08:04 overrun!!! (at least 58.189 ms long)
+01:08:16 overrun!!! (at least 0.168 ms long)
+01:08:17 overrun!!! (at least 38.480 ms long)
+01:08:18 overrun!!! (at least 18.823 ms long)
+01:08:19 overrun!!! (at least 68.757 ms long)
+01:08:19 overrun!!! (at least 49.048 ms long)
+01:08:22 overrun!!! (at least 69.541 ms long)
+01:08:22 overrun!!! (at least 38.972 ms long)
+01:08:23 overrun!!! (at least 18.771 ms long)
+01:08:24 overrun!!! (at least 8.927 ms long)
+01:08:28 overrun!!! (at least 30.507 ms long)
+01:08:29 overrun!!! (at least 38.473 ms long)
+01:10:23 overrun!!! (at least 47.219 ms long)
+01:10:30 overrun!!! (at least 39.592 ms long)
+01:10:45 overrun!!! (at least 39.604 ms long)
+01:11:08 overrun!!! (at least 89.255 ms long)
+01:11:12 overrun!!! (at least 0.533 ms long)
+01:11:13 overrun!!! (at least 38.897 ms long)
+01:11:23 overrun!!! (at least 39.359 ms long)
+01:11:24 overrun!!! (at least 18.844 ms long)
+01:11:29 overrun!!! (at least 18.203 ms long)
+01:11:31 overrun!!! (at least 48.907 ms long)
+01:11:32 overrun!!! (at least 8.864 ms long)
+01:11:32 overrun!!! (at least 18.467 ms long)
+01:11:34 overrun!!! (at least 18.774 ms long)
+01:11:42 overrun!!! (at least 8.630 ms long)
+01:11:43 overrun!!! (at least 48.573 ms long)
+01:11:47 overrun!!! (at least 58.332 ms long)
+01:11:48 overrun!!! (at least 78.589 ms long)
+01:11:49 overrun!!! (at least 28.828 ms long)
+01:11:49 overrun!!! (at least 48.681 ms long)
+01:12:27 overrun!!! (at least 49.479 ms long)
+01:12:28 overrun!!! (at least 8.833 ms long)
+01:12:28 overrun!!! (at least 8.552 ms long)
+01:12:30 overrun!!! (at least 8.656 ms long)
+01:12:33 overrun!!! (at least 8.345 ms long)
+01:12:37 overrun!!! (at least 0.129 ms long)
+01:12:42 overrun!!! (at least 7.998 ms long)
+01:12:52 overrun!!! (at least 10.084 ms long)
+01:12:53 overrun!!! (at least 68.495 ms long)
+01:12:54 overrun!!! (at least 8.760 ms long)
+01:13:17 overrun!!! (at least 7.539 ms long)
+01:13:17 overrun!!! (at least 58.904 ms long)
+01:13:21 overrun!!! (at least 20.297 ms long)
+01:13:22 overrun!!! (at least 48.985 ms long)
+01:13:23 overrun!!! (at least 18.809 ms long)
+01:13:32 overrun!!! (at least 9.611 ms long)
+01:13:37 overrun!!! (at least 39.855 ms long)
+01:13:39 overrun!!! (at least 28.413 ms long)
+01:13:40 overrun!!! (at least 8.738 ms long)
+01:13:41 overrun!!! (at least 88.607 ms long)
+01:13:41 overrun!!! (at least 28.722 ms long)
+01:13:42 overrun!!! (at least 38.747 ms long)
+01:13:45 overrun!!! (at least 48.493 ms long)
+01:13:46 overrun!!! (at least 18.715 ms long)
+01:13:48 overrun!!! (at least 5.461 ms long)
+01:13:50 overrun!!! (at least 21.896 ms long)
+01:13:52 overrun!!! (at least 48.436 ms long)
+01:13:53 overrun!!! (at least 38.602 ms long)
+01:14:05 overrun!!! (at least 28.262 ms long)
+01:14:06 overrun!!! (at least 18.585 ms long)
+01:14:07 overrun!!! (at least 18.722 ms long)
+01:14:28 overrun!!! (at least 0.022 ms long)
+01:14:29 overrun!!! (at least 28.984 ms long)
+01:14:37 overrun!!! (at least 39.645 ms long)
+01:14:45 overrun!!! (at least 49.513 ms long)
+01:14:46 overrun!!! (at least 28.768 ms long)
+01:14:47 overrun!!! (at least 18.993 ms long)
+01:15:05 overrun!!! (at least 8.520 ms long)
+01:15:05 overrun!!! (at least 69.002 ms long)
+01:15:06 overrun!!! (at least 38.870 ms long)
+01:15:17 overrun!!! (at least 10.121 ms long)
+01:15:17 overrun!!! (at least 78.915 ms long)
+01:15:18 overrun!!! (at least 8.832 ms long)
+01:15:18 overrun!!! (at least 18.791 ms long)
+01:15:18 overrun!!! (at least 18.972 ms long)
+01:15:19 overrun!!! (at least 48.642 ms long)
+01:15:26 overrun!!! (at least 0.052 ms long)
+01:15:27 overrun!!! (at least 18.365 ms long)
+01:15:28 overrun!!! (at least 18.813 ms long)
+01:15:29 overrun!!! (at least 78.656 ms long)
+01:15:53 overrun!!! (at least 9.032 ms long)
+01:16:03 overrun!!! (at least 28.724 ms long)
+01:16:12 overrun!!! (at least 39.467 ms long)
+01:16:16 overrun!!! (at least 0.094 ms long)
+01:16:18 overrun!!! (at least 29.057 ms long)
+01:16:21 overrun!!! (at least 40.158 ms long)
+01:16:22 overrun!!! (at least 18.717 ms long)
+01:16:24 overrun!!! (at least 28.604 ms long)
+01:16:37 overrun!!! (at least 10.015 ms long)
+01:16:39 overrun!!! (at least 48.555 ms long)
+01:16:39 overrun!!! (at least 18.637 ms long)
+01:16:50 overrun!!! (at least 50.203 ms long)
+01:16:51 overrun!!! (at least 18.851 ms long)
+01:16:51 overrun!!! (at least 48.643 ms long)
+01:16:52 overrun!!! (at least 58.729 ms long)
+01:16:53 overrun!!! (at least 18.732 ms long)
+01:16:54 overrun!!! (at least 38.725 ms long)
+01:16:57 overrun!!! (at least 10.365 ms long)
+01:16:57 overrun!!! (at least 8.725 ms long)
+01:16:58 overrun!!! (at least 28.748 ms long)
+01:16:58 overrun!!! (at least 9.014 ms long)
+01:16:59 overrun!!! (at least 28.638 ms long)
+01:17:00 overrun!!! (at least 8.674 ms long)
+01:17:01 overrun!!! (at least 58.770 ms long)
+01:17:03 overrun!!! (at least 0.361 ms long)
+01:17:06 overrun!!! (at least 60.027 ms long)
+01:17:07 overrun!!! (at least 38.773 ms long)
+01:17:07 overrun!!! (at least 19.013 ms long)
+01:17:12 overrun!!! (at least 8.445 ms long)
+01:17:12 overrun!!! (at least 48.485 ms long)
+01:17:13 overrun!!! (at least 8.927 ms long)
+01:17:13 overrun!!! (at least 38.578 ms long)
+01:17:14 overrun!!! (at least 39.127 ms long)
+01:17:42 overrun!!! (at least 17.871 ms long)
+01:17:53 stdout: Input/output error
+Sun 29 Dec 11:15:10 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 29 Dec 11:26:03 CET 2019
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 4 Jan 13:01:09 CET 2020
+Started Recording deamon:
+Deamon PID: 486
+Record PID: 1559
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 4 Jan 13:04:45 CET 2020
+Started Recording deamon:
+Deamon PID: 482
+Record PID: 1453
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 4 Jan 14:48:50 CET 2020
+Started Recording deamon:
+Deamon PID: 484
+Record PID: 1413
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 4 Jan 18:20:14 CET 2020
+Started Recording deamon:
+Deamon PID: 439
+Record PID: 1532
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sun 5 Jan 14:23:37 CET 2020
+Started Recording deamon:
+Deamon PID: 488
+Record PID: 1615
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sun 5 Jan 17:36:30 CET 2020
+Started Recording deamon:
+Deamon PID: 439
+Record PID: 1462
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 11 Jan 14:20:46 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 11 Jan 14:22:24 CET 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1163
+Consistently on battery for 10 seconds.
+Shutting down!
+Sat 11 Jan 14:22:25 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 15 Jan 19:10:57 CET 2020
+Started Recording deamon:
+Deamon PID: 488
+Record PID: 1622
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 18 Jan 15:12:20 CET 2020
+Started Recording deamon:
+Deamon PID: 447
+Record PID: 1404
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sat 18 Jan 17:00:35 CET 2020
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw
+Current arecord PID: 4676
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:03:14 overrun!!! (at least 7.811 ms long)
+00:03:14 overrun!!! (at least 428.898 ms long)
+00:03:17 overrun!!! (at least 2728.551 ms long)
+00:25:32 overrun!!! (at least 128.905 ms long)
+00:26:54 overrun!!! (at least 28.534 ms long)
+00:26:54 overrun!!! (at least 78.555 ms long)
+00:26:54 overrun!!! (at least 78.652 ms long)
+00:26:55 overrun!!! (at least 218.805 ms long)
+00:26:55 overrun!!! (at least 219.070 ms long)
+00:26:56 overrun!!! (at least 218.768 ms long)
+00:26:56 overrun!!! (at least 218.851 ms long)
+00:26:57 overrun!!! (at least 219.220 ms long)
+00:26:58 overrun!!! (at least 848.408 ms long)
+00:26:59 overrun!!! (at least 639.026 ms long)
+00:27:00 overrun!!! (at least 1058.868 ms long)
+00:27:00 overrun!!! (at least 219.783 ms long)
+00:29:45 overrun!!! (at least 7.175 ms long)
+00:29:48 overrun!!! (at least 9.744 ms long)
+00:29:48 overrun!!! (at least 8.872 ms long)
+00:30:23 overrun!!! (at least 9.632 ms long)
+00:30:35 overrun!!! (at least 8.299 ms long)
+00:30:51 overrun!!! (at least 0.178 ms long)
+00:30:51 overrun!!! (at least 38.534 ms long)
+00:30:52 overrun!!! (at least 38.597 ms long)
+00:30:52 overrun!!! (at least 18.929 ms long)
+00:30:53 overrun!!! (at least 29.002 ms long)
+00:30:53 overrun!!! (at least 48.879 ms long)
+00:30:54 overrun!!! (at least 188.991 ms long)
+00:30:54 overrun!!! (at least 29.051 ms long)
+00:30:54 overrun!!! (at least 8.966 ms long)
+00:30:55 overrun!!! (at least 218.837 ms long)
+00:30:57 overrun!!! (at least 10.651 ms long)
+00:30:58 overrun!!! (at least 218.804 ms long)
+00:31:00 overrun!!! (at least 10.383 ms long)
+00:31:02 overrun!!! (at least 10.650 ms long)
+00:31:03 overrun!!! (at least 218.797 ms long)
+00:31:03 overrun!!! (at least 219.057 ms long)
+00:31:04 overrun!!! (at least 438.594 ms long)
+00:31:04 overrun!!! (at least 218.967 ms long)
+00:31:07 overrun!!! (at least 210.907 ms long)
+00:31:08 overrun!!! (at least 638.778 ms long)
+00:31:09 overrun!!! (at least 638.887 ms long)
+00:31:11 overrun!!! (at least 640.419 ms long)
+00:31:13 overrun!!! (at least 1278.875 ms long)
+00:31:16 overrun!!! (at least 2319.017 ms long)
+00:31:20 overrun!!! (at least 4628.879 ms long)
+00:37:59 overrun!!! (at least 424.546 ms long)
+00:38:00 overrun!!! (at least 8.969 ms long)
+00:38:03 overrun!!! (at least 10.355 ms long)
+00:38:03 overrun!!! (at least 9.384 ms long)
+00:38:04 overrun!!! (at least 8.471 ms long)
+00:38:06 overrun!!! (at least 8.981 ms long)
+00:38:06 overrun!!! (at least 8.969 ms long)
+00:38:07 overrun!!! (at least 8.848 ms long)
+00:38:08 overrun!!! (at least 9.108 ms long)
+00:38:19 overrun!!! (at least 40.556 ms long)
+00:38:31 overrun!!! (at least 38.454 ms long)
+00:38:32 overrun!!! (at least 39.049 ms long)
+00:38:33 overrun!!! (at least 28.812 ms long)
+00:38:34 overrun!!! (at least 38.984 ms long)
+00:38:35 overrun!!! (at least 88.908 ms long)
+00:38:35 overrun!!! (at least 18.843 ms long)
+00:38:36 overrun!!! (at least 29.079 ms long)
+00:38:37 overrun!!! (at least 19.142 ms long)
+00:38:37 overrun!!! (at least 58.805 ms long)
+00:38:38 overrun!!! (at least 38.540 ms long)
+00:38:39 overrun!!! (at least 18.759 ms long)
+00:38:41 stdout: Input/output error
+Sat 18 Jan 17:39:17 CET 2020
+Recording to /media/JMUSB3/XR18/2/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sat 18 Jan 18:28:57 CET 2020
+Recording to /media/JMUSB3/XR18/3/all_tracks.raw
+Current arecord PID: 26260
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:02:38 overrun!!! (at least 25863.583 ms long)
+00:03:32 overrun!!! (at least 640.294 ms long)
+00:03:33 overrun!!! (at least 219.184 ms long)
+00:03:34 overrun!!! (at least 8.731 ms long)
+00:03:34 overrun!!! (at least 8.888 ms long)
+00:03:34 overrun!!! (at least 9.001 ms long)
+00:03:35 overrun!!! (at least 8.213 ms long)
+00:03:35 overrun!!! (at least 8.405 ms long)
+00:03:36 overrun!!! (at least 8.234 ms long)
+00:03:36 overrun!!! (at least 9.065 ms long)
+00:03:37 overrun!!! (at least 9.219 ms long)
+00:03:38 overrun!!! (at least 8.265 ms long)
+00:03:38 overrun!!! (at least 9.063 ms long)
+00:03:39 overrun!!! (at least 8.989 ms long)
+00:03:39 overrun!!! (at least 8.572 ms long)
+00:03:41 overrun!!! (at least 58.656 ms long)
+00:03:41 overrun!!! (at least 58.570 ms long)
+00:03:42 overrun!!! (at least 28.505 ms long)
+00:03:43 overrun!!! (at least 18.438 ms long)
+00:03:44 overrun!!! (at least 29.251 ms long)
+00:03:44 overrun!!! (at least 38.429 ms long)
+00:03:45 overrun!!! (at least 98.293 ms long)
+00:03:45 overrun!!! (at least 29.097 ms long)
+00:03:46 overrun!!! (at least 118.464 ms long)
+00:03:46 overrun!!! (at least 8.920 ms long)
+00:03:47 overrun!!! (at least 8.915 ms long)
+00:03:47 overrun!!! (at least 18.737 ms long)
+00:03:47 overrun!!! (at least 47.695 ms long)
+00:03:48 overrun!!! (at least 48.609 ms long)
+00:03:48 overrun!!! (at least 78.787 ms long)
+00:03:49 overrun!!! (at least 188.915 ms long)
+00:03:49 overrun!!! (at least 178.855 ms long)
+00:03:50 overrun!!! (at least 278.989 ms long)
+00:03:50 overrun!!! (at least 69.327 ms long)
+00:03:50 overrun!!! (at least 8.660 ms long)
+00:03:51 overrun!!! (at least 218.946 ms long)
+00:03:51 overrun!!! (at least 8.788 ms long)
+00:03:52 overrun!!! (at least 638.764 ms long)
+00:03:53 overrun!!! (at least 639.180 ms long)
+00:03:54 overrun!!! (at least 1059.020 ms long)
+00:03:56 overrun!!! (at least 1478.682 ms long)
+00:04:00 overrun!!! (at least 3369.020 ms long)
+00:04:08 overrun!!! (at least 7998.688 ms long)
+00:04:14 overrun!!! (at least 5688.992 ms long)
+00:05:10 overrun!!! (at least 219.920 ms long)
+00:05:10 overrun!!! (at least 9.093 ms long)
+00:05:11 overrun!!! (at least 9.104 ms long)
+00:05:11 overrun!!! (at least 9.107 ms long)
+00:05:11 overrun!!! (at least 8.541 ms long)
+00:05:11 overrun!!! (at least 8.120 ms long)
+00:05:12 overrun!!! (at least 9.008 ms long)
+00:05:12 overrun!!! (at least 8.707 ms long)
+00:05:13 overrun!!! (at least 8.630 ms long)
+00:05:13 overrun!!! (at least 9.230 ms long)
+00:05:14 overrun!!! (at least 8.484 ms long)
+00:05:14 overrun!!! (at least 8.993 ms long)
+00:05:15 overrun!!! (at least 8.708 ms long)
+00:05:15 overrun!!! (at least 8.611 ms long)
+00:06:20 overrun!!! (at least 0.198 ms long)
+00:06:21 overrun!!! (at least 8.317 ms long)
+00:06:22 overrun!!! (at least 8.612 ms long)
+00:06:23 overrun!!! (at least 9.097 ms long)
+00:06:24 overrun!!! (at least 68.818 ms long)
+00:06:24 overrun!!! (at least 9.259 ms long)
+00:06:25 overrun!!! (at least 19.936 ms long)
+00:06:25 overrun!!! (at least 7.886 ms long)
+00:06:26 overrun!!! (at least 58.909 ms long)
+00:06:26 overrun!!! (at least 19.242 ms long)
+00:06:27 overrun!!! (at least 38.684 ms long)
+00:06:27 overrun!!! (at least 19.013 ms long)
+00:06:29 overrun!!! (at least 29.013 ms long)
+00:06:32 overrun!!! (at least 8.245 ms long)
+00:06:33 overrun!!! (at least 38.899 ms long)
+00:06:33 overrun!!! (at least 58.511 ms long)
+00:06:34 overrun!!! (at least 38.242 ms long)
+00:06:37 overrun!!! (at least 18.601 ms long)
+00:06:38 overrun!!! (at least 8.783 ms long)
+00:06:38 overrun!!! (at least 68.559 ms long)
+00:06:39 overrun!!! (at least 18.905 ms long)
+00:06:39 overrun!!! (at least 38.778 ms long)
+00:06:40 overrun!!! (at least 108.707 ms long)
+00:06:41 overrun!!! (at least 28.945 ms long)
+00:06:41 overrun!!! (at least 68.730 ms long)
+00:06:41 overrun!!! (at least 18.801 ms long)
+00:06:43 overrun!!! (at least 39.085 ms long)
+00:06:46 overrun!!! (at least 38.820 ms long)
+00:06:47 overrun!!! (at least 48.606 ms long)
+00:06:48 overrun!!! (at least 18.560 ms long)
+00:06:49 overrun!!! (at least 8.689 ms long)
+00:06:50 overrun!!! (at least 8.573 ms long)
+00:06:51 overrun!!! (at least 8.771 ms long)
+00:06:51 overrun!!! (at least 68.937 ms long)
+00:06:53 overrun!!! (at least 18.246 ms long)
+00:06:54 overrun!!! (at least 8.871 ms long)
+00:06:54 overrun!!! (at least 38.546 ms long)
+00:06:55 overrun!!! (at least 9.296 ms long)
+00:06:55 overrun!!! (at least 8.009 ms long)
+00:06:56 overrun!!! (at least 9.140 ms long)
+00:07:07 overrun!!! (at least 8.620 ms long)
+00:07:07 overrun!!! (at least 48.454 ms long)
+00:07:08 overrun!!! (at least 9.165 ms long)
+00:07:08 overrun!!! (at least 58.586 ms long)
+00:07:09 overrun!!! (at least 9.250 ms long)
+00:07:09 overrun!!! (at least 19.109 ms long)
+00:07:10 overrun!!! (at least 18.853 ms long)
+00:07:10 overrun!!! (at least 8.837 ms long)
+00:07:10 overrun!!! (at least 48.402 ms long)
+00:07:11 overrun!!! (at least 179.168 ms long)
+00:07:11 overrun!!! (at least 38.955 ms long)
+00:07:14 overrun!!! (at least 1.071 ms long)
+00:07:15 overrun!!! (at least 19.082 ms long)
+00:07:15 overrun!!! (at least 18.574 ms long)
+00:07:16 overrun!!! (at least 8.916 ms long)
+00:07:18 overrun!!! (at least 38.480 ms long)
+00:07:19 overrun!!! (at least 28.686 ms long)
+00:07:22 overrun!!! (at least 8.467 ms long)
+00:07:23 overrun!!! (at least 8.589 ms long)
+00:07:26 overrun!!! (at least 48.444 ms long)
+00:07:27 overrun!!! (at least 18.539 ms long)
+00:07:27 overrun!!! (at least 8.553 ms long)
+00:07:29 overrun!!! (at least 48.767 ms long)
+00:07:29 overrun!!! (at least 8.643 ms long)
+00:07:30 overrun!!! (at least 68.635 ms long)
+00:07:31 overrun!!! (at least 28.975 ms long)
+00:07:32 overrun!!! (at least 48.694 ms long)
+00:07:32 overrun!!! (at least 0.323 ms long)
+00:07:33 overrun!!! (at least 17.005 ms long)
+00:07:33 overrun!!! (at least 68.558 ms long)
+00:07:34 overrun!!! (at least 19.300 ms long)
+00:07:34 overrun!!! (at least 38.949 ms long)
+00:07:35 overrun!!! (at least 48.226 ms long)
+00:07:37 overrun!!! (at least 18.439 ms long)
+00:07:38 overrun!!! (at least 29.061 ms long)
+00:07:39 overrun!!! (at least 68.758 ms long)
+00:07:39 overrun!!! (at least 18.887 ms long)
+00:07:40 overrun!!! (at least 59.190 ms long)
+00:07:41 overrun!!! (at least 48.626 ms long)
+00:07:44 overrun!!! (at least 8.450 ms long)
+00:07:45 overrun!!! (at least 9.048 ms long)
+00:07:45 overrun!!! (at least 48.288 ms long)
+00:07:47 overrun!!! (at least 28.746 ms long)
+00:07:48 overrun!!! (at least 58.673 ms long)
+00:07:49 overrun!!! (at least 38.407 ms long)
+00:07:49 overrun!!! (at least 28.842 ms long)
+00:07:50 overrun!!! (at least 68.874 ms long)
+00:07:51 overrun!!! (at least 68.715 ms long)
+00:07:52 overrun!!! (at least 68.760 ms long)
+00:07:52 overrun!!! (at least 38.817 ms long)
+00:07:53 overrun!!! (at least 58.859 ms long)
+00:07:54 overrun!!! (at least 68.789 ms long)
+00:07:55 overrun!!! (at least 38.643 ms long)
+00:07:56 overrun!!! (at least 68.530 ms long)
+00:07:57 overrun!!! (at least 9.129 ms long)
+00:07:57 overrun!!! (at least 78.402 ms long)
+00:07:58 overrun!!! (at least 58.324 ms long)
+00:08:01 overrun!!! (at least 0.900 ms long)
+00:08:01 overrun!!! (at least 77.950 ms long)
+00:08:02 overrun!!! (at least 68.878 ms long)
+00:08:03 overrun!!! (at least 18.934 ms long)
+00:08:03 overrun!!! (at least 18.854 ms long)
+00:08:04 overrun!!! (at least 18.351 ms long)
+00:08:04 overrun!!! (at least 8.962 ms long)
+00:08:05 overrun!!! (at least 58.592 ms long)
+00:08:06 overrun!!! (at least 28.630 ms long)
+00:08:06 overrun!!! (at least 9.218 ms long)
+00:08:07 overrun!!! (at least 68.426 ms long)
+00:08:08 overrun!!! (at least 58.298 ms long)
+00:08:08 overrun!!! (at least 29.204 ms long)
+00:08:09 overrun!!! (at least 108.347 ms long)
+00:08:09 overrun!!! (at least 9.067 ms long)
+00:08:09 overrun!!! (at least 8.772 ms long)
+00:08:10 overrun!!! (at least 78.620 ms long)
+00:08:10 overrun!!! (at least 29.000 ms long)
+00:08:11 overrun!!! (at least 8.841 ms long)
+00:08:11 overrun!!! (at least 28.754 ms long)
+00:08:12 overrun!!! (at least 8.578 ms long)
+00:08:12 overrun!!! (at least 9.058 ms long)
+00:08:13 overrun!!! (at least 68.341 ms long)
+00:08:13 overrun!!! (at least 38.714 ms long)
+00:08:14 overrun!!! (at least 68.686 ms long)
+00:08:15 overrun!!! (at least 8.685 ms long)
+00:08:15 overrun!!! (at least 18.433 ms long)
+00:08:16 overrun!!! (at least 78.882 ms long)
+00:08:17 overrun!!! (at least 28.965 ms long)
+00:08:17 overrun!!! (at least 8.572 ms long)
+00:08:20 overrun!!! (at least 0.518 ms long)
+00:08:21 overrun!!! (at least 18.832 ms long)
+00:08:22 overrun!!! (at least 58.503 ms long)
+00:08:23 overrun!!! (at least 9.266 ms long)
+00:08:23 overrun!!! (at least 38.349 ms long)
+00:08:24 overrun!!! (at least 18.682 ms long)
+00:08:24 overrun!!! (at least 9.123 ms long)
+00:08:25 overrun!!! (at least 28.193 ms long)
+00:08:26 overrun!!! (at least 38.861 ms long)
+00:08:26 overrun!!! (at least 8.566 ms long)
+00:08:27 overrun!!! (at least 38.435 ms long)
+00:08:27 overrun!!! (at least 88.697 ms long)
+00:08:28 overrun!!! (at least 28.781 ms long)
+00:08:28 overrun!!! (at least 118.788 ms long)
+00:08:29 overrun!!! (at least 69.022 ms long)
+00:08:29 overrun!!! (at least 28.810 ms long)
+00:08:30 overrun!!! (at least 58.696 ms long)
+00:08:30 overrun!!! (at least 28.969 ms long)
+00:08:31 overrun!!! (at least 118.414 ms long)
+00:08:31 overrun!!! (at least 8.961 ms long)
+00:08:32 overrun!!! (at least 28.856 ms long)
+00:08:33 overrun!!! (at least 58.709 ms long)
+00:08:33 overrun!!! (at least 18.792 ms long)
+00:08:34 overrun!!! (at least 48.508 ms long)
+00:08:35 overrun!!! (at least 48.356 ms long)
+00:08:36 overrun!!! (at least 8.746 ms long)
+00:08:37 overrun!!! (at least 78.691 ms long)
+00:08:37 overrun!!! (at least 28.590 ms long)
+00:08:38 overrun!!! (at least 9.108 ms long)
+00:08:39 overrun!!! (at least 48.510 ms long)
+00:08:40 overrun!!! (at least 68.609 ms long)
+00:08:41 overrun!!! (at least 58.809 ms long)
+00:08:41 overrun!!! (at least 89.012 ms long)
+00:08:42 overrun!!! (at least 18.968 ms long)
+00:08:42 overrun!!! (at least 8.895 ms long)
+00:08:43 overrun!!! (at least 38.542 ms long)
+00:08:43 overrun!!! (at least 68.702 ms long)
+00:08:44 overrun!!! (at least 8.625 ms long)
+00:08:44 overrun!!! (at least 19.188 ms long)
+00:08:45 overrun!!! (at least 38.544 ms long)
+00:08:46 overrun!!! (at least 88.300 ms long)
+00:08:46 overrun!!! (at least 29.047 ms long)
+00:08:47 overrun!!! (at least 68.285 ms long)
+00:08:47 overrun!!! (at least 58.719 ms long)
+00:08:48 overrun!!! (at least 78.898 ms long)
+00:08:48 overrun!!! (at least 29.312 ms long)
+00:08:49 overrun!!! (at least 108.428 ms long)
+00:08:49 overrun!!! (at least 18.723 ms long)
+00:08:50 overrun!!! (at least 108.834 ms long)
+00:08:50 overrun!!! (at least 98.679 ms long)
+00:08:51 overrun!!! (at least 178.939 ms long)
+00:08:51 overrun!!! (at least 8.864 ms long)
+00:08:51 overrun!!! (at least 8.688 ms long)
+00:08:52 overrun!!! (at least 38.766 ms long)
+00:08:52 overrun!!! (at least 8.791 ms long)
+00:08:53 overrun!!! (at least 158.913 ms long)
+00:08:53 overrun!!! (at least 68.755 ms long)
+00:09:13 overrun!!! (at least 0.507 ms long)
+00:09:14 overrun!!! (at least 38.822 ms long)
+00:09:15 overrun!!! (at least 58.872 ms long)
+00:09:16 overrun!!! (at least 8.972 ms long)
+00:09:17 overrun!!! (at least 49.104 ms long)
+00:09:18 overrun!!! (at least 58.868 ms long)
+00:09:18 overrun!!! (at least 18.796 ms long)
+00:09:19 overrun!!! (at least 68.951 ms long)
+00:09:19 overrun!!! (at least 18.698 ms long)
+00:09:20 overrun!!! (at least 19.144 ms long)
+00:09:20 overrun!!! (at least 19.181 ms long)
+00:09:21 overrun!!! (at least 38.570 ms long)
+00:09:22 overrun!!! (at least 8.826 ms long)
+00:09:22 overrun!!! (at least 18.638 ms long)
+00:09:23 overrun!!! (at least 38.267 ms long)
+00:09:24 overrun!!! (at least 38.765 ms long)
+00:09:25 overrun!!! (at least 9.011 ms long)
+00:09:25 overrun!!! (at least 47.976 ms long)
+00:09:55 overrun!!! (at least 8.614 ms long)
+00:09:56 overrun!!! (at least 9.309 ms long)
+00:09:56 overrun!!! (at least 38.533 ms long)
+00:09:57 overrun!!! (at least 58.635 ms long)
+00:09:58 overrun!!! (at least 9.086 ms long)
+00:09:59 overrun!!! (at least 9.103 ms long)
+00:09:59 overrun!!! (at least 18.748 ms long)
+00:10:00 overrun!!! (at least 38.484 ms long)
+00:10:00 overrun!!! (at least 8.781 ms long)
+00:10:01 overrun!!! (at least 18.602 ms long)
+00:10:01 overrun!!! (at least 18.358 ms long)
+00:10:02 overrun!!! (at least 18.765 ms long)
+00:10:02 overrun!!! (at least 8.910 ms long)
+00:10:03 overrun!!! (at least 38.946 ms long)
+00:10:04 overrun!!! (at least 28.681 ms long)
+00:10:05 overrun!!! (at least 18.649 ms long)
+00:10:06 overrun!!! (at least 9.419 ms long)
+00:10:06 overrun!!! (at least 28.521 ms long)
+00:10:09 overrun!!! (at least 28.494 ms long)
+00:10:10 overrun!!! (at least 9.002 ms long)
+00:10:10 overrun!!! (at least 9.378 ms long)
+00:10:11 overrun!!! (at least 78.553 ms long)
+00:10:12 overrun!!! (at least 58.691 ms long)
+00:10:12 overrun!!! (at least 78.864 ms long)
+00:10:13 overrun!!! (at least 58.775 ms long)
+00:10:13 overrun!!! (at least 9.032 ms long)
+00:10:14 overrun!!! (at least 18.863 ms long)
+00:10:14 overrun!!! (at least 28.883 ms long)
+00:10:15 overrun!!! (at least 88.334 ms long)
+00:10:15 overrun!!! (at least 9.031 ms long)
+00:10:16 overrun!!! (at least 18.436 ms long)
+00:10:17 overrun!!! (at least 8.744 ms long)
+00:10:17 overrun!!! (at least 58.665 ms long)
+00:10:18 overrun!!! (at least 9.033 ms long)
+00:10:18 overrun!!! (at least 18.357 ms long)
+00:10:19 overrun!!! (at least 9.106 ms long)
+00:10:19 overrun!!! (at least 19.037 ms long)
+00:10:20 overrun!!! (at least 38.469 ms long)
+00:10:20 overrun!!! (at least 18.984 ms long)
+00:10:20 overrun!!! (at least 8.585 ms long)
+00:10:21 overrun!!! (at least 8.751 ms long)
+00:10:21 overrun!!! (at least 38.473 ms long)
+00:10:22 overrun!!! (at least 8.844 ms long)
+00:10:22 overrun!!! (at least 48.885 ms long)
+00:10:22 overrun!!! (at least 208.663 ms long)
+00:10:23 overrun!!! (at least 39.408 ms long)
+00:10:23 overrun!!! (at least 148.365 ms long)
+00:10:23 overrun!!! (at least 28.939 ms long)
+00:10:24 overrun!!! (at least 58.596 ms long)
+00:10:25 overrun!!! (at least 28.665 ms long)
+00:10:25 overrun!!! (at least 9.125 ms long)
+00:10:26 overrun!!! (at least 9.251 ms long)
+00:10:26 overrun!!! (at least 28.497 ms long)
+00:10:28 overrun!!! (at least 18.858 ms long)
+00:10:28 overrun!!! (at least 9.178 ms long)
+00:10:29 overrun!!! (at least 78.800 ms long)
+00:10:30 overrun!!! (at least 58.669 ms long)
+00:10:30 overrun!!! (at least 88.569 ms long)
+00:10:31 overrun!!! (at least 0.482 ms long)
+00:10:31 overrun!!! (at least 36.998 ms long)
+00:10:32 overrun!!! (at least 48.990 ms long)
+00:10:33 overrun!!! (at least 8.868 ms long)
+00:10:34 overrun!!! (at least 18.677 ms long)
+00:10:35 overrun!!! (at least 68.983 ms long)
+00:10:35 overrun!!! (at least 59.000 ms long)
+00:10:36 overrun!!! (at least 68.827 ms long)
+00:10:37 overrun!!! (at least 28.653 ms long)
+00:10:38 overrun!!! (at least 38.264 ms long)
+00:10:39 overrun!!! (at least 28.759 ms long)
+00:10:40 overrun!!! (at least 68.595 ms long)
+00:10:40 overrun!!! (at least 18.737 ms long)
+00:10:41 overrun!!! (at least 59.010 ms long)
+00:10:42 overrun!!! (at least 48.779 ms long)
+00:10:43 overrun!!! (at least 58.647 ms long)
+00:10:43 overrun!!! (at least 9.010 ms long)
+00:10:44 overrun!!! (at least 38.780 ms long)
+00:10:44 overrun!!! (at least 48.662 ms long)
+00:10:45 overrun!!! (at least 28.853 ms long)
+00:10:47 overrun!!! (at least 18.274 ms long)
+00:10:48 overrun!!! (at least 9.024 ms long)
+00:10:48 overrun!!! (at least 48.920 ms long)
+00:10:49 overrun!!! (at least 8.944 ms long)
+00:10:49 overrun!!! (at least 18.144 ms long)
+00:10:50 overrun!!! (at least 8.750 ms long)
+00:10:51 overrun!!! (at least 68.454 ms long)
+00:10:52 overrun!!! (at least 9.268 ms long)
+00:10:52 overrun!!! (at least 78.070 ms long)
+00:10:53 overrun!!! (at least 58.907 ms long)
+00:10:54 overrun!!! (at least 98.759 ms long)
+00:10:54 overrun!!! (at least 68.584 ms long)
+00:10:55 overrun!!! (at least 18.588 ms long)
+00:10:55 overrun!!! (at least 78.521 ms long)
+00:10:56 overrun!!! (at least 8.802 ms long)
+00:10:56 overrun!!! (at least 78.447 ms long)
+00:10:57 overrun!!! (at least 8.244 ms long)
+00:10:57 overrun!!! (at least 28.816 ms long)
+00:10:58 overrun!!! (at least 68.919 ms long)
+00:10:58 overrun!!! (at least 79.130 ms long)
+00:11:00 overrun!!! (at least 1808.153 ms long)
+00:11:02 overrun!!! (at least 29.552 ms long)
+00:11:02 overrun!!! (at least 58.714 ms long)
+00:11:06 overrun!!! (at least 8.541 ms long)
+00:11:06 overrun!!! (at least 58.740 ms long)
+00:11:07 overrun!!! (at least 19.110 ms long)
+00:11:09 overrun!!! (at least 8.643 ms long)
+00:11:10 overrun!!! (at least 48.556 ms long)
+00:11:11 overrun!!! (at least 9.089 ms long)
+00:11:13 overrun!!! (at least 48.455 ms long)
+00:11:14 overrun!!! (at least 8.507 ms long)
+00:11:14 overrun!!! (at least 68.862 ms long)
+00:11:15 overrun!!! (at least 8.413 ms long)
+00:11:16 overrun!!! (at least 38.363 ms long)
+00:11:17 overrun!!! (at least 48.620 ms long)
+00:11:17 overrun!!! (at least 8.930 ms long)
+00:11:19 overrun!!! (at least 8.634 ms long)
+00:11:20 overrun!!! (at least 28.477 ms long)
+00:11:21 overrun!!! (at least 48.689 ms long)
+00:11:22 overrun!!! (at least 48.537 ms long)
+00:11:23 overrun!!! (at least 9.603 ms long)
+00:11:23 overrun!!! (at least 17.938 ms long)
+00:11:24 overrun!!! (at least 59.129 ms long)
+00:11:24 overrun!!! (at least 9.058 ms long)
+00:11:25 overrun!!! (at least 128.392 ms long)
+00:11:25 overrun!!! (at least 18.944 ms long)
+00:11:25 overrun!!! (at least 58.648 ms long)
+00:11:26 overrun!!! (at least 58.720 ms long)
+00:11:26 overrun!!! (at least 29.089 ms long)
+00:11:27 overrun!!! (at least 29.299 ms long)
+00:11:27 overrun!!! (at least 18.740 ms long)
+00:11:28 overrun!!! (at least 48.672 ms long)
+00:11:28 overrun!!! (at least 28.174 ms long)
+00:11:28 overrun!!! (at least 58.557 ms long)
+00:11:29 overrun!!! (at least 198.763 ms long)
+00:11:29 overrun!!! (at least 28.964 ms long)
+00:11:30 overrun!!! (at least 108.756 ms long)
+00:11:30 overrun!!! (at least 178.950 ms long)
+00:11:33 overrun!!! (at least 0.559 ms long)
+00:11:33 overrun!!! (at least 58.781 ms long)
+00:11:34 overrun!!! (at least 68.278 ms long)
+00:11:35 overrun!!! (at least 9.001 ms long)
+00:11:35 overrun!!! (at least 38.324 ms long)
+00:11:36 overrun!!! (at least 99.099 ms long)
+00:11:36 overrun!!! (at least 9.266 ms long)
+00:11:37 overrun!!! (at least 28.730 ms long)
+00:11:37 overrun!!! (at least 49.223 ms long)
+00:11:38 overrun!!! (at least 88.799 ms long)
+00:11:38 overrun!!! (at least 29.380 ms long)
+00:11:39 overrun!!! (at least 48.266 ms long)
+00:11:39 overrun!!! (at least 58.716 ms long)
+00:11:40 overrun!!! (at least 39.097 ms long)
+00:11:41 overrun!!! (at least 15.039 ms long)
+00:11:41 overrun!!! (at least 8.951 ms long)
+00:11:42 overrun!!! (at least 58.543 ms long)
+00:11:42 overrun!!! (at least 8.834 ms long)
+00:11:43 overrun!!! (at least 58.302 ms long)
+00:11:43 overrun!!! (at least 19.333 ms long)
+00:11:44 overrun!!! (at least 38.530 ms long)
+00:11:44 overrun!!! (at least 28.764 ms long)
+00:11:46 overrun!!! (at least 38.642 ms long)
+00:11:46 overrun!!! (at least 59.099 ms long)
+00:11:47 overrun!!! (at least 18.968 ms long)
+00:11:48 overrun!!! (at least 58.686 ms long)
+00:11:48 overrun!!! (at least 9.186 ms long)
+00:11:48 overrun!!! (at least 8.771 ms long)
+00:11:49 overrun!!! (at least 48.953 ms long)
+00:11:51 overrun!!! (at least 8.404 ms long)
+00:11:51 overrun!!! (at least 8.501 ms long)
+00:11:52 overrun!!! (at least 9.338 ms long)
+00:11:52 overrun!!! (at least 8.243 ms long)
+00:11:53 overrun!!! (at least 8.773 ms long)
+00:11:53 overrun!!! (at least 58.380 ms long)
+00:11:54 overrun!!! (at least 88.502 ms long)
+00:11:55 overrun!!! (at least 39.388 ms long)
+00:11:55 overrun!!! (at least 98.036 ms long)
+00:11:55 overrun!!! (at least 8.696 ms long)
+00:11:56 overrun!!! (at least 99.115 ms long)
+00:11:56 overrun!!! (at least 28.874 ms long)
+00:11:57 overrun!!! (at least 8.858 ms long)
+00:11:57 overrun!!! (at least 18.872 ms long)
+00:11:58 overrun!!! (at least 38.475 ms long)
+00:11:58 overrun!!! (at least 29.346 ms long)
+00:11:59 overrun!!! (at least 78.151 ms long)
+00:11:59 overrun!!! (at least 9.817 ms long)
+00:11:59 overrun!!! (at least 18.345 ms long)
+00:12:00 overrun!!! (at least 48.626 ms long)
+00:12:00 overrun!!! (at least 88.929 ms long)
+00:12:01 overrun!!! (at least 148.886 ms long)
+00:12:01 overrun!!! (at least 59.353 ms long)
+00:12:02 overrun!!! (at least 88.221 ms long)
+00:12:02 overrun!!! (at least 8.912 ms long)
+00:12:02 overrun!!! (at least 38.907 ms long)
+00:12:03 overrun!!! (at least 58.753 ms long)
+00:12:03 overrun!!! (at least 110.118 ms long)
+00:12:04 overrun!!! (at least 177.200 ms long)
+00:12:04 overrun!!! (at least 79.303 ms long)
+00:12:05 overrun!!! (at least 68.466 ms long)
+00:12:05 overrun!!! (at least 48.729 ms long)
+00:12:05 overrun!!! (at least 128.861 ms long)
+00:12:06 overrun!!! (at least 39.166 ms long)
+00:12:08 overrun!!! (at least 40.404 ms long)
+00:12:09 overrun!!! (at least 48.828 ms long)
+00:12:11 overrun!!! (at least 68.634 ms long)
+00:12:11 overrun!!! (at least 78.904 ms long)
+00:12:12 overrun!!! (at least 58.843 ms long)
+00:12:13 overrun!!! (at least 19.518 ms long)
+00:12:13 overrun!!! (at least 18.203 ms long)
+00:12:14 overrun!!! (at least 18.005 ms long)
+00:12:14 overrun!!! (at least 29.163 ms long)
+00:12:15 overrun!!! (at least 128.400 ms long)
+00:12:15 overrun!!! (at least 9.001 ms long)
+00:12:16 overrun!!! (at least 18.875 ms long)
+00:12:16 overrun!!! (at least 48.702 ms long)
+00:12:16 overrun!!! (at least 98.981 ms long)
+00:12:17 overrun!!! (at least 148.701 ms long)
+00:12:17 overrun!!! (at least 49.282 ms long)
+00:12:18 overrun!!! (at least 58.375 ms long)
+00:12:18 overrun!!! (at least 78.597 ms long)
+00:12:18 overrun!!! (at least 19.038 ms long)
+00:12:19 overrun!!! (at least 49.149 ms long)
+00:12:19 overrun!!! (at least 78.743 ms long)
+00:12:20 overrun!!! (at least 118.890 ms long)
+00:12:20 overrun!!! (at least 108.310 ms long)
+00:12:21 overrun!!! (at least 29.099 ms long)
+00:12:21 overrun!!! (at least 18.348 ms long)
+00:12:22 overrun!!! (at least 19.545 ms long)
+00:12:23 overrun!!! (at least 48.270 ms long)
+00:12:23 overrun!!! (at least 28.498 ms long)
+00:12:24 overrun!!! (at least 103.862 ms long)
+00:12:24 overrun!!! (at least 23.453 ms long)
+00:12:25 overrun!!! (at least 29.358 ms long)
+00:12:25 overrun!!! (at least 77.778 ms long)
+00:12:27 overrun!!! (at least 38.877 ms long)
+00:12:30 overrun!!! (at least 18.222 ms long)
+00:12:31 overrun!!! (at least 68.587 ms long)
+00:12:31 overrun!!! (at least 69.190 ms long)
+00:12:32 overrun!!! (at least 58.658 ms long)
+00:12:33 overrun!!! (at least 98.662 ms long)
+00:12:33 overrun!!! (at least 29.062 ms long)
+00:12:34 overrun!!! (at least 88.408 ms long)
+00:12:35 overrun!!! (at least 8.528 ms long)
+00:12:41 overrun!!! (at least 8.415 ms long)
+00:12:42 overrun!!! (at least 1.695 ms long)
+00:12:46 overrun!!! (at least 25.472 ms long)
+00:12:46 overrun!!! (at least 9.249 ms long)
+00:12:47 overrun!!! (at least 38.325 ms long)
+00:12:48 overrun!!! (at least 38.781 ms long)
+00:12:48 overrun!!! (at least 68.493 ms long)
+00:12:49 overrun!!! (at least 18.646 ms long)
+00:12:50 overrun!!! (at least 58.820 ms long)
+00:12:50 overrun!!! (at least 38.906 ms long)
+00:12:52 overrun!!! (at least 28.005 ms long)
+00:12:53 overrun!!! (at least 9.330 ms long)
+00:12:53 overrun!!! (at least 48.467 ms long)
+00:12:54 overrun!!! (at least 8.895 ms long)
+00:12:54 overrun!!! (at least 38.956 ms long)
+00:12:55 overrun!!! (at least 68.674 ms long)
+00:12:55 overrun!!! (at least 8.899 ms long)
+00:12:56 overrun!!! (at least 28.556 ms long)
+00:12:57 overrun!!! (at least 28.508 ms long)
+00:12:58 overrun!!! (at least 9.457 ms long)
+00:12:58 overrun!!! (at least 18.293 ms long)
+00:12:59 overrun!!! (at least 48.279 ms long)
+00:13:00 overrun!!! (at least 8.740 ms long)
+00:13:00 overrun!!! (at least 68.513 ms long)
+00:13:01 overrun!!! (at least 9.149 ms long)
+00:13:02 overrun!!! (at least 8.680 ms long)
+00:13:02 overrun!!! (at least 58.927 ms long)
+00:13:03 overrun!!! (at least 38.733 ms long)
+00:13:45 overrun!!! (at least 41377.028 ms long)
+00:13:45 stdout: No space left on device
+Sat 18 Jan 18:42:45 CET 2020
+Recording to /media/JMUSB3/XR18/3/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Recording device full, waiting for new device...
+Consistently on battery for 10 seconds.
+Shutting down!
+Sat 18 Jan 19:33:24 CET 2020
+Recording to /media/JMUSB3/XR18/3/all_tracks.raw has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 18 Jan 19:35:01 CET 2020
+Started Recording deamon:
+Deamon PID: 447
+Record PID: 1130
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 18 Jan 19:52:54 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 22 Jan 20:00:44 CET 2020
+Started Recording deamon:
+Deamon PID: 502
+Record PID: 1571
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 1 Feb 12:16:38 CET 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1536
+Looking for XR18...                                       
+Starting system
+Sat 1 Feb 12:21:14 CET 2020
+Started Recording deamon:
+Deamon PID: 484
+Record PID: 1446
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 1 Feb 13:39:50 CET 2020
+Started Recording deamon:
+Deamon PID: 439
+Record PID: 1433
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 1 Feb 13:39:50 CET 2020
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1480
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 1 Feb 13:39:50 CET 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1129
+Consistently on battery for 10 seconds.
+Shutting down!
+Sat 1 Feb 13:39:51 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 2 Feb 15:27:34 CET 2020
+Started Recording deamon:
+Deamon PID: 487
+Record PID: 1524
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 2 Feb 19:39:45 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 2 Feb 19:10:53 CET 2020
+Started Recording deamon:
+Deamon PID: 486
+Record PID: 1473
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Wed 5 Feb 21:17:04 CET 2020
+Started Recording deamon:
+Deamon PID: 445
+Record PID: 1222
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sun 9 Feb 09:52:01 CET 2020
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 20702
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+00:00:12 overrun!!! (at least 1112.218 ms long)
+00:19:10 overrun!!! (at least 218.207 ms long)
+00:19:11 overrun!!! (at least 1477.497 ms long)
+00:19:24 overrun!!! (at least 12409.536 ms long)
+00:20:21 overrun!!! (at least 217.419 ms long)
+00:20:21 overrun!!! (at least 218.940 ms long)
+00:20:21 overrun!!! (at least 9.200 ms long)
+00:20:22 overrun!!! (at least 19.011 ms long)
+00:20:22 overrun!!! (at least 8.888 ms long)
+00:20:22 overrun!!! (at least 9.076 ms long)
+00:20:23 overrun!!! (at least 9.124 ms long)
+00:20:23 overrun!!! (at least 8.771 ms long)
+00:20:24 overrun!!! (at least 8.972 ms long)
+00:20:24 overrun!!! (at least 8.974 ms long)
+00:20:25 overrun!!! (at least 8.922 ms long)
+00:20:25 overrun!!! (at least 9.085 ms long)
+00:20:26 overrun!!! (at least 9.057 ms long)
+00:20:26 overrun!!! (at least 9.268 ms long)
+00:20:27 overrun!!! (at least 8.659 ms long)
+00:20:27 overrun!!! (at least 9.182 ms long)
+00:20:28 overrun!!! (at least 9.253 ms long)
+00:20:28 overrun!!! (at least 18.763 ms long)
+00:20:28 overrun!!! (at least 9.017 ms long)
+00:20:29 overrun!!! (at least 9.101 ms long)
+00:20:29 overrun!!! (at least 8.783 ms long)
+00:20:29 overrun!!! (at least 8.719 ms long)
+00:20:30 overrun!!! (at least 18.783 ms long)
+00:20:30 overrun!!! (at least 8.727 ms long)
+00:20:30 overrun!!! (at least 9.335 ms long)
+00:20:31 overrun!!! (at least 8.761 ms long)
+00:20:31 overrun!!! (at least 9.109 ms long)
+00:20:31 overrun!!! (at least 8.599 ms long)
+00:20:32 overrun!!! (at least 8.952 ms long)
+00:20:32 overrun!!! (at least 9.054 ms long)
+00:20:32 overrun!!! (at least 9.363 ms long)
+00:20:32 overrun!!! (at least 8.937 ms long)
+00:20:33 overrun!!! (at least 9.147 ms long)
+00:20:33 overrun!!! (at least 9.020 ms long)
+00:20:33 overrun!!! (at least 218.674 ms long)
+00:20:34 overrun!!! (at least 219.069 ms long)
+00:20:35 overrun!!! (at least 649.352 ms long)
+00:22:00 overrun!!! (at least 16.125 ms long)
+00:22:03 overrun!!! (at least 18.459 ms long)
+00:22:07 overrun!!! (at least 8.319 ms long)
+00:22:08 overrun!!! (at least 8.711 ms long)
+00:22:09 overrun!!! (at least 48.734 ms long)
+00:22:10 overrun!!! (at least 8.617 ms long)
+00:22:14 overrun!!! (at least 18.170 ms long)
+00:22:15 overrun!!! (at least 28.622 ms long)
+00:22:16 overrun!!! (at least 28.854 ms long)
+00:22:16 overrun!!! (at least 68.564 ms long)
+00:22:17 overrun!!! (at least 48.703 ms long)
+00:22:18 overrun!!! (at least 58.728 ms long)
+00:22:18 overrun!!! (at least 28.659 ms long)
+00:22:19 overrun!!! (at least 108.365 ms long)
+00:22:19 overrun!!! (at least 68.767 ms long)
+00:22:19 overrun!!! (at least 88.787 ms long)
+00:22:20 overrun!!! (at least 199.219 ms long)
+00:22:20 overrun!!! (at least 29.029 ms long)
+00:22:21 overrun!!! (at least 148.017 ms long)
+00:22:21 overrun!!! (at least 148.731 ms long)
+00:22:22 overrun!!! (at least 38.899 ms long)
+00:22:25 overrun!!! (at least 18.506 ms long)
+00:22:25 overrun!!! (at least 38.807 ms long)
+00:22:26 overrun!!! (at least 48.585 ms long)
+00:22:32 overrun!!! (at least 58.374 ms long)
+00:22:33 overrun!!! (at least 18.549 ms long)
+00:22:35 overrun!!! (at least 48.389 ms long)
+00:22:36 overrun!!! (at least 68.912 ms long)
+00:22:37 overrun!!! (at least 68.565 ms long)
+00:22:38 overrun!!! (at least 19.022 ms long)
+00:22:38 overrun!!! (at least 38.888 ms long)
+00:22:39 overrun!!! (at least 58.905 ms long)
+00:22:39 overrun!!! (at least 29.016 ms long)
+00:22:40 overrun!!! (at least 8.645 ms long)
+00:22:40 overrun!!! (at least 78.106 ms long)
+00:22:41 overrun!!! (at least 48.975 ms long)
+00:22:41 overrun!!! (at least 88.888 ms long)
+00:22:42 overrun!!! (at least 29.243 ms long)
+00:22:42 overrun!!! (at least 128.885 ms long)
+00:22:43 overrun!!! (at least 88.823 ms long)
+00:22:43 overrun!!! (at least 78.656 ms long)
+00:22:44 overrun!!! (at least 148.783 ms long)
+00:22:44 overrun!!! (at least 228.876 ms long)
+00:22:45 overrun!!! (at least 58.552 ms long)
+00:22:45 overrun!!! (at least 8.738 ms long)
+00:22:45 overrun!!! (at least 9.020 ms long)
+00:22:45 overrun!!! (at least 38.740 ms long)
+00:22:46 overrun!!! (at least 69.034 ms long)
+00:22:47 overrun!!! (at least 9.002 ms long)
+00:22:47 overrun!!! (at least 88.096 ms long)
+00:22:47 overrun!!! (at least 8.704 ms long)
+00:22:48 overrun!!! (at least 39.040 ms long)
+00:22:48 overrun!!! (at least 58.681 ms long)
+00:22:49 overrun!!! (at least 179.111 ms long)
+00:22:49 overrun!!! (at least 200.079 ms long)
+00:22:50 overrun!!! (at least 27.701 ms long)
+00:22:50 overrun!!! (at least 8.724 ms long)
+00:22:51 overrun!!! (at least 18.918 ms long)
+00:22:51 overrun!!! (at least 48.729 ms long)
+00:22:51 overrun!!! (at least 28.963 ms long)
+00:22:52 overrun!!! (at least 48.917 ms long)
+00:22:52 overrun!!! (at least 59.159 ms long)
+00:22:53 overrun!!! (at least 58.242 ms long)
+00:22:53 overrun!!! (at least 48.891 ms long)
+00:22:55 overrun!!! (at least 9.048 ms long)
+00:22:56 overrun!!! (at least 38.836 ms long)
+00:22:59 overrun!!! (at least 28.032 ms long)
+00:23:00 overrun!!! (at least 88.761 ms long)
+00:23:16 overrun!!! (at least 18.592 ms long)
+00:23:18 overrun!!! (at least 48.538 ms long)
+00:23:18 overrun!!! (at least 38.942 ms long)
+00:23:19 overrun!!! (at least 48.846 ms long)
+00:23:20 overrun!!! (at least 58.949 ms long)
+00:23:21 overrun!!! (at least 69.164 ms long)
+00:23:21 overrun!!! (at least 39.250 ms long)
+00:23:22 overrun!!! (at least 28.995 ms long)
+00:23:22 overrun!!! (at least 18.866 ms long)
+00:23:22 overrun!!! (at least 128.903 ms long)
+00:23:23 overrun!!! (at least 248.696 ms long)
+00:23:23 overrun!!! (at least 89.175 ms long)
+00:23:24 overrun!!! (at least 148.800 ms long)
+00:23:24 overrun!!! (at least 8.084 ms long)
+00:23:25 overrun!!! (at least 8.936 ms long)
+00:23:26 overrun!!! (at least 8.798 ms long)
+00:23:26 overrun!!! (at least 9.035 ms long)
+00:23:27 overrun!!! (at least 38.095 ms long)
+00:23:27 overrun!!! (at least 49.054 ms long)
+00:23:28 overrun!!! (at least 48.767 ms long)
+00:23:29 overrun!!! (at least 38.976 ms long)
+00:23:30 overrun!!! (at least 68.540 ms long)
+00:23:30 overrun!!! (at least 48.592 ms long)
+00:23:39 overrun!!! (at least 9.364 ms long)
+00:23:40 overrun!!! (at least 8.699 ms long)
+00:23:41 overrun!!! (at least 8.826 ms long)
+00:23:41 overrun!!! (at least 58.695 ms long)
+00:23:42 overrun!!! (at least 9.093 ms long)
+00:23:42 overrun!!! (at least 18.700 ms long)
+00:23:43 overrun!!! (at least 78.907 ms long)
+00:23:43 overrun!!! (at least 8.660 ms long)
+00:23:44 overrun!!! (at least 58.723 ms long)
+00:23:50 overrun!!! (at least 9.598 ms long)
+00:23:52 overrun!!! (at least 48.685 ms long)
+00:23:52 overrun!!! (at least 8.905 ms long)
+00:23:53 overrun!!! (at least 48.685 ms long)
+00:23:54 overrun!!! (at least 29.110 ms long)
+00:23:55 overrun!!! (at least 38.562 ms long)
+00:23:56 overrun!!! (at least 48.754 ms long)
+00:23:57 overrun!!! (at least 8.680 ms long)
+00:23:58 overrun!!! (at least 68.883 ms long)
+00:23:58 overrun!!! (at least 29.085 ms long)
+00:23:59 overrun!!! (at least 79.016 ms long)
+00:24:00 overrun!!! (at least 68.843 ms long)
+00:24:01 overrun!!! (at least 8.950 ms long)
+00:24:02 overrun!!! (at least 19.032 ms long)
+00:24:02 overrun!!! (at least 28.854 ms long)
+00:24:03 overrun!!! (at least 68.858 ms long)
+00:24:04 overrun!!! (at least 58.783 ms long)
+00:24:04 overrun!!! (at least 88.652 ms long)
+00:24:05 overrun!!! (at least 8.958 ms long)
+00:24:06 overrun!!! (at least 48.446 ms long)
+00:24:07 overrun!!! (at least 18.785 ms long)
+00:24:08 overrun!!! (at least 8.893 ms long)
+00:24:08 overrun!!! (at least 9.042 ms long)
+00:24:10 overrun!!! (at least 8.526 ms long)
+00:24:11 overrun!!! (at least 48.713 ms long)
+00:24:11 overrun!!! (at least 48.458 ms long)
+00:24:35 overrun!!! (at least 8.517 ms long)
+00:24:36 overrun!!! (at least 8.981 ms long)
+00:24:37 overrun!!! (at least 69.030 ms long)
+00:24:38 overrun!!! (at least 18.436 ms long)
+00:24:39 overrun!!! (at least 28.797 ms long)
+00:24:40 overrun!!! (at least 48.770 ms long)
+00:24:41 overrun!!! (at least 38.972 ms long)
+00:24:42 overrun!!! (at least 18.674 ms long)
+00:24:42 overrun!!! (at least 88.843 ms long)
+00:24:43 overrun!!! (at least 18.913 ms long)
+00:24:43 overrun!!! (at least 18.976 ms long)
+00:24:44 overrun!!! (at least 18.573 ms long)
+00:24:44 overrun!!! (at least 19.080 ms long)
+00:24:45 overrun!!! (at least 138.639 ms long)
+00:24:45 overrun!!! (at least 68.892 ms long)
+00:24:46 overrun!!! (at least 98.870 ms long)
+00:24:46 overrun!!! (at least 39.098 ms long)
+00:24:47 overrun!!! (at least 48.635 ms long)
+00:24:48 overrun!!! (at least 38.777 ms long)
+00:24:49 overrun!!! (at least 9.023 ms long)
+00:24:50 overrun!!! (at least 48.574 ms long)
+00:24:51 overrun!!! (at least 18.728 ms long)
+00:24:51 overrun!!! (at least 58.720 ms long)
+00:24:52 overrun!!! (at least 9.044 ms long)
+00:24:53 overrun!!! (at least 38.366 ms long)
+00:24:53 overrun!!! (at least 8.411 ms long)
+00:24:54 overrun!!! (at least 88.779 ms long)
+00:24:55 overrun!!! (at least 58.774 ms long)
+00:24:55 overrun!!! (at least 58.915 ms long)
+00:24:56 overrun!!! (at least 9.081 ms long)
+00:24:57 overrun!!! (at least 38.499 ms long)
+00:24:58 overrun!!! (at least 48.496 ms long)
+00:24:59 overrun!!! (at least 8.968 ms long)
+00:24:59 overrun!!! (at least 8.426 ms long)
+00:25:00 overrun!!! (at least 18.535 ms long)
+00:25:00 overrun!!! (at least 9.050 ms long)
+00:25:04 overrun!!! (at least 8.148 ms long)
+00:25:04 overrun!!! (at least 8.644 ms long)
+00:25:05 overrun!!! (at least 8.519 ms long)
+00:25:07 overrun!!! (at least 28.528 ms long)
+00:25:09 overrun!!! (at least 48.761 ms long)
+00:25:09 overrun!!! (at least 48.756 ms long)
+00:25:10 overrun!!! (at least 8.883 ms long)
+00:25:11 overrun!!! (at least 38.676 ms long)
+00:25:12 overrun!!! (at least 38.380 ms long)
+00:25:13 overrun!!! (at least 48.755 ms long)
+00:25:14 overrun!!! (at least 18.867 ms long)
+00:25:15 overrun!!! (at least 38.912 ms long)
+00:25:16 overrun!!! (at least 48.587 ms long)
+00:25:17 overrun!!! (at least 38.915 ms long)
+00:25:18 overrun!!! (at least 8.791 ms long)
+00:25:20 overrun!!! (at least 28.586 ms long)
+00:25:22 overrun!!! (at least 28.655 ms long)
+00:25:23 overrun!!! (at least 18.691 ms long)
+00:25:24 overrun!!! (at least 8.915 ms long)
+00:25:25 overrun!!! (at least 18.614 ms long)
+00:25:26 overrun!!! (at least 18.698 ms long)
+00:25:27 overrun!!! (at least 48.260 ms long)
+00:25:29 overrun!!! (at least 38.630 ms long)
+00:25:30 overrun!!! (at least 28.990 ms long)
+00:25:35 overrun!!! (at least 38.286 ms long)
+00:25:35 overrun!!! (at least 8.952 ms long)
+00:25:36 overrun!!! (at least 18.879 ms long)
+00:25:39 overrun!!! (at least 48.426 ms long)
+00:25:40 overrun!!! (at least 38.791 ms long)
+00:25:42 overrun!!! (at least 8.560 ms long)
+00:25:43 overrun!!! (at least 48.778 ms long)
+00:25:43 overrun!!! (at least 28.978 ms long)
+00:25:44 overrun!!! (at least 68.906 ms long)
+00:25:45 overrun!!! (at least 38.778 ms long)
+00:25:46 overrun!!! (at least 48.386 ms long)
+00:25:47 overrun!!! (at least 18.872 ms long)
+00:25:48 overrun!!! (at least 8.940 ms long)
+00:25:49 overrun!!! (at least 48.764 ms long)
+00:25:50 overrun!!! (at least 59.120 ms long)
+00:25:51 overrun!!! (at least 48.903 ms long)
+00:25:52 overrun!!! (at least 58.690 ms long)
+00:25:52 overrun!!! (at least 19.003 ms long)
+00:25:53 overrun!!! (at least 38.482 ms long)
+00:25:53 overrun!!! (at least 38.950 ms long)
+00:25:55 overrun!!! (at least 8.632 ms long)
+00:25:58 overrun!!! (at least 58.359 ms long)
+00:25:59 overrun!!! (at least 68.670 ms long)
+00:26:00 overrun!!! (at least 18.861 ms long)
+00:26:35 overrun!!! (at least 37.790 ms long)
+00:26:35 overrun!!! (at least 9.083 ms long)
+00:26:36 overrun!!! (at least 9.370 ms long)
+00:26:36 overrun!!! (at least 8.770 ms long)
+00:26:37 overrun!!! (at least 8.418 ms long)
+00:26:39 overrun!!! (at least 8.840 ms long)
+00:26:39 overrun!!! (at least 8.612 ms long)
+00:26:40 overrun!!! (at least 8.716 ms long)
+00:26:44 overrun!!! (at least 18.484 ms long)
+00:26:45 overrun!!! (at least 18.800 ms long)
+00:26:45 overrun!!! (at least 38.918 ms long)
+00:26:47 overrun!!! (at least 8.808 ms long)
+00:26:59 overrun!!! (at least 57.587 ms long)
+00:27:00 overrun!!! (at least 68.943 ms long)
+00:27:01 overrun!!! (at least 48.809 ms long)
+00:27:01 overrun!!! (at least 38.935 ms long)
+00:27:02 overrun!!! (at least 19.140 ms long)
+00:27:02 overrun!!! (at least 7.835 ms long)
+00:27:03 overrun!!! (at least 48.672 ms long)
+00:27:05 overrun!!! (at least 48.664 ms long)
+00:27:06 overrun!!! (at least 38.464 ms long)
+00:27:07 overrun!!! (at least 68.674 ms long)
+00:27:08 overrun!!! (at least 68.940 ms long)
+00:27:08 overrun!!! (at least 18.789 ms long)
+00:27:09 overrun!!! (at least 38.796 ms long)
+00:27:10 overrun!!! (at least 28.895 ms long)
+00:27:11 overrun!!! (at least 8.869 ms long)
+00:27:11 overrun!!! (at least 28.711 ms long)
+00:27:12 overrun!!! (at least 28.728 ms long)
+00:27:13 overrun!!! (at least 38.426 ms long)
+00:27:14 overrun!!! (at least 9.077 ms long)
+00:27:15 overrun!!! (at least 68.230 ms long)
+00:27:15 overrun!!! (at least 58.982 ms long)
+00:27:17 overrun!!! (at least 38.769 ms long)
+00:27:18 overrun!!! (at least 48.786 ms long)
+00:27:19 overrun!!! (at least 68.646 ms long)
+00:27:19 overrun!!! (at least 9.023 ms long)
+00:27:20 overrun!!! (at least 79.008 ms long)
+00:27:20 overrun!!! (at least 59.032 ms long)
+00:27:21 overrun!!! (at least 9.199 ms long)
+00:27:22 overrun!!! (at least 48.947 ms long)
+00:27:22 overrun!!! (at least 8.807 ms long)
+00:27:23 overrun!!! (at least 9.132 ms long)
+00:27:25 overrun!!! (at least 48.544 ms long)
+00:27:26 overrun!!! (at least 48.956 ms long)
+00:27:27 overrun!!! (at least 38.438 ms long)
+00:27:27 overrun!!! (at least 48.425 ms long)
+00:27:59 overrun!!! (at least 38.223 ms long)
+00:28:01 overrun!!! (at least 8.874 ms long)
+00:28:01 overrun!!! (at least 18.913 ms long)
+00:28:02 overrun!!! (at least 9.232 ms long)
+00:28:02 overrun!!! (at least 28.678 ms long)
+00:28:03 overrun!!! (at least 19.129 ms long)
+00:28:03 overrun!!! (at least 29.012 ms long)
+00:28:04 overrun!!! (at least 9.118 ms long)
+00:28:04 overrun!!! (at least 68.573 ms long)
+00:28:05 overrun!!! (at least 8.953 ms long)
+00:28:05 overrun!!! (at least 38.669 ms long)
+00:28:06 overrun!!! (at least 8.665 ms long)
+00:28:07 overrun!!! (at least 28.651 ms long)
+00:28:08 overrun!!! (at least 8.409 ms long)
+00:28:08 overrun!!! (at least 9.111 ms long)
+00:28:09 overrun!!! (at least 18.959 ms long)
+00:28:09 overrun!!! (at least 18.474 ms long)
+00:28:10 overrun!!! (at least 29.154 ms long)
+00:28:10 overrun!!! (at least 18.297 ms long)
+00:28:11 overrun!!! (at least 68.597 ms long)
+00:28:11 overrun!!! (at least 48.804 ms long)
+00:28:12 overrun!!! (at least 78.789 ms long)
+00:28:13 overrun!!! (at least 49.193 ms long)
+00:28:13 overrun!!! (at least 98.718 ms long)
+00:28:14 overrun!!! (at least 68.369 ms long)
+00:28:15 overrun!!! (at least 28.860 ms long)
+00:28:15 overrun!!! (at least 68.970 ms long)
+00:28:16 overrun!!! (at least 48.587 ms long)
+00:28:16 overrun!!! (at least 9.148 ms long)
+00:28:17 overrun!!! (at least 58.469 ms long)
+00:28:17 overrun!!! (at least 19.077 ms long)
+00:28:18 overrun!!! (at least 58.680 ms long)
+00:28:18 overrun!!! (at least 28.682 ms long)
+00:28:19 overrun!!! (at least 98.832 ms long)
+00:28:20 overrun!!! (at least 18.146 ms long)
+00:28:20 overrun!!! (at least 58.656 ms long)
+00:28:21 overrun!!! (at least 18.827 ms long)
+00:28:22 overrun!!! (at least 68.817 ms long)
+00:28:22 overrun!!! (at least 48.923 ms long)
+00:28:23 overrun!!! (at least 28.784 ms long)
+00:28:24 overrun!!! (at least 8.824 ms long)
+00:28:25 overrun!!! (at least 18.684 ms long)
+00:28:26 overrun!!! (at least 9.060 ms long)
+00:28:27 overrun!!! (at least 28.640 ms long)
+00:28:28 overrun!!! (at least 68.291 ms long)
+00:28:29 overrun!!! (at least 48.826 ms long)
+00:29:14 overrun!!! (at least 45297.743 ms long)
+00:29:15 stdout: No space left on device
+Sun 9 Feb 10:21:17 CET 2020
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Recording device full, waiting for new device...
+
+Starting system
+Sat 8 Feb 15:33:44 CET 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1184
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 8 Feb 15:33:33 CET 2020
+Started Recording deamon:
+Deamon PID: 485
+Record PID: 1443
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Found Hard Drive
+Looking for write permission... Hard Drive has write permission!
+Sat 8 Feb 15:42:19 CET 2020
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw
+Current arecord PID: 7542
+00:00:00 Recording raw data 'stdin' : Signed 32 bit Little Endian, Rate 48000 Hz, Channels 18
+08:48:10 stdout: Input/output error
+Sat 15 Feb 00:30:31 CET 2020
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Terminated
+Sat 15 Feb 00:37:39 CET 2020
+Recording to /media/JMUSB3/XR18/1/all_tracks.raw has ended.
+Recording terminated
+
+Starting system
+Sat 15 Feb 00:39:16 CET 2020
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1437
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 15 Feb 02:30:49 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 15 Feb 02:32:27 CET 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1131
+Consistently on battery for 10 seconds.
+Shutting down!
+Sat 15 Feb 02:32:28 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 15 Feb 02:34:04 CET 2020
+Started Recording deamon:
+Deamon PID: 439
+Record PID: 1479
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 23 Feb 15:13:25 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 23 Feb 15:15:02 CET 2020
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1121
+Consistently on battery for 10 seconds.
+Shutting down!
+Sun 23 Feb 15:15:03 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 23 Feb 15:16:39 CET 2020
+Started Recording deamon:
+Deamon PID: 441
+Record PID: 1504
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 23 Feb 15:25:47 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Wed 4 Mar 20:27:05 CET 2020
+Started Recording deamon:
+Deamon PID: 487
+Record PID: 1590
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Wed 4 Mar 22:21:36 CET 2020
+Started Recording deamon:
+Deamon PID: 447
+Record PID: 1454
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Wed 4 Mar 22:21:17 CET 2020
+Started Recording deamon:
+Deamon PID: 484
+Record PID: 1442
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Thu 5 Mar 11:35:03 CET 2020
+Started Recording deamon:
+Deamon PID: 502
+Record PID: 1495
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Thu 5 Mar 11:40:08 CET 2020
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1531
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Thu 5 Mar 13:25:56 CET 2020
+Started Recording deamon:
+Deamon PID: 438
+Record PID: 1130
+Consistently on battery for 10 seconds.
+Shutting down!
+Thu 5 Mar 13:25:57 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Thu 5 Mar 13:27:13 CET 2020
+Started Recording deamon:
+Deamon PID: 488
+Record PID: 1506
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Mon 9 Mar 16:27:33 CET 2020
+Started Recording deamon:
+Deamon PID: 438
+Record PID: 1381
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 14 Mar 16:09:42 CET 2020
+Started Recording deamon:
+Deamon PID: 440
+Record PID: 1530
+Looking for XR18... Found XR18!
+Looking for Hard Drive... 
+Starting system
+Sat 14 Mar 16:09:21 CET 2020
+Started Recording deamon:
+Deamon PID: 485
+Record PID: 1463
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 15 Mar 15:15:17 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+
+Starting system
+Sun 15 Mar 15:16:54 CET 2020
+Started Recording deamon:
+Deamon PID: 433
+Record PID: 1127
+Looking for XR18... Found XR18!
+Looking for Hard Drive... Consistently on battery for 10 seconds.
+Shutting down!
+Sun 15 Mar 15:23:02 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sun 15 Mar 15:24:40 CET 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1131
+Consistently on battery for 10 seconds.
+Shutting down!
+Sun 15 Mar 15:24:41 CET 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Thu 7 May 12:48:55 CEST 2020
+Started Recording deamon:
+Deamon PID: 486
+Record PID: 1607
+Looking for XR18... 
+Starting system
+Sun 10 May 13:42:11 CEST 2020
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1630
+Looking for XR18... 
+Starting system
+Sun 17 May 14:34:13 CEST 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1579
+Looking for XR18... 
+Starting system
+Sun 17 May 16:42:50 CEST 2020
+Started Recording deamon:
+Deamon PID: 438
+Record PID: 1600
+Looking for XR18... 
+Starting system
+Tue 26 May 11:41:04 CEST 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1692
+Looking for XR18... 
+Starting system
+Tue 26 May 17:22:57 CEST 2020
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1502
+Looking for XR18... 
+Starting system
+Sat 30 May 11:46:15 CEST 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1670
+Looking for XR18... 
+Starting system
+Sat 30 May 15:45:44 CEST 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1602
+Looking for XR18... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 30 May 18:08:09 CEST 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 30 May 18:09:47 CEST 2020
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1163
+Consistently on battery for 10 seconds.
+Shutting down!
+Sat 30 May 18:09:48 CEST 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 30 May 18:11:24 CEST 2020
+Started Recording deamon:
+Deamon PID: 438
+Record PID: 1532
+Looking for XR18... Consistently on battery for 10 seconds.
+Shutting down!
+Sat 30 May 18:37:25 CEST 2020
+Recording to  has ended.
+Recording terminated
+Graceful shutdown complete, turning off system
+
+Starting system
+Sat 6 Jun 16:59:34 CEST 2020
+Started Recording deamon:
+Deamon PID: 436
+Record PID: 1682
+Looking for XR18... 
+Starting system
+Sat 6 Jun 17:25:10 CEST 2020
+Started Recording deamon:
+Deamon PID: 437
+Record PID: 1504
+Looking for XR18... Terminated
+Sat 6 Jun 20:08:07 CEST 2020
+Recording to  has ended.
+Recording terminated
